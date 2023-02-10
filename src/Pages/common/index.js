@@ -1,0 +1,7 @@
+export { default as DevInfo } from "./DevInfo"
+export { default as DevWorkCount } from "./DevWorkCount"
+export { default as EduTimeLine } from "./EduTimeLine"
+export { default as ExpTimeLine } from "./ExpTimeLine"
+export { default as PagesDivider } from "./PagesDivider"
+export { default as Skills } from "./Skills"
+export { default as ContactForm } from "./ContactForm"
